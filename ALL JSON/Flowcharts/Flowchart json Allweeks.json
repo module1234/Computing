@@ -1,5 +1,5 @@
 {
-  "WK-A-LAB-1": {
+  "WK-1-LAB-1": {
     "toolbox": [
       "Power Supply",
       "CPU",
@@ -55,7 +55,7 @@
     ],
     "finalCheck": "Power Supply → CPU → RAM → SSD → GPU → Monitor → Keyboard → Mouse"
   },
-  "WK-A-LAB-2": {
+  "WK-1-LAB-2": {
     "toolbox": [
       "Keyboard",
       "Instruction Fetch Unit",
@@ -105,7 +105,7 @@
     ],
     "finalCheck": "Keyboard → Instruction Fetch Unit → Registers → Instruction Decoder → Cache → RAM → ALU → Monitor"
   },
-  "WK-A-LAB-3": {
+  "WK-1-LAB-3": {
     "toolbox": [
       "Mouse",
       "Registers",
@@ -324,7 +324,7 @@
     ],
     "finalCheck": "Power Supply → Operating System → CPU → Storage Interface → SSD Controller → SSD Flash Memory → Storage Interface → RAM → Memory Controller → CPU Cache → CPU → Monitor"
   },
-  "WK-C-LAB-1": {
+  "WK-3-LAB-1": {
     "toolbox": [
       "Power Supply",
       "Operating System",
@@ -380,7 +380,7 @@
     ],
     "finalCheck": "Power Supply → Operating System → Secondary Storage → RAM → Memory Controller → Memory Bus → CPU Cache → CPU"
   },
-  "WK-C-LAB-2": {
+  "WK-3-LAB-2": {
     "toolbox": [
       "Power Supply",
       "Operating System",
@@ -434,7 +434,7 @@
     ],
     "finalCheck": "Power Supply → Operating System → Storage → RAM → Waiting List → CPU"
   },
-  "WK-C-LAB-3": {
+  "WK-3-LAB-3": {
     "toolbox": [
       "Power Supply",
       "CPU (Program A)",
