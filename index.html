@@ -3712,6 +3712,15 @@ function drawTraceOnBoard(ctx, pts, edge) {
   // placeholder card instead of being omitted, so students can see the full course roadmap.
   const WEEK_ID_PATTERN = /^WK-(\d+)-(.+)$/i;
   const TOTAL_WEEK_SLOTS = 12;
+
+  // Flip-card labels are displayed two weeks ahead of their internal IDs.
+  // IMPORTANT: data IDs and all internal week/lab keys remain unchanged.
+  function flipCardDisplayId(id) {
+    return String(id || '').replace(/^WK-(\d+)-/i, (_, n) => 'WK-' + (parseInt(n, 10) + 2) + '-');
+  }
+  function flipCardDisplayWeek(weekNum) {
+    return parseInt(weekNum, 10) + 2;
+  }
   function getWeeksIndex() {
     const weeksMap = new Map(); // weekNum -> [{ id, slot }]
     Object.keys(ALLWEEKS).forEach(id => {
@@ -3750,19 +3759,19 @@ function drawTraceOnBoard(ctx, pts, edge) {
         cardsHtml.push(`
           <div class="flip-card locked" data-week="${weekNum}">
             <div class="flip-card-inner">
-              <div class="flip-card-front"><div class="fc-line1">COMPUTER ARCHITECTURE</div><div class="fc-line2">WEEK-${weekNum}</div></div>
+              <div class="flip-card-front"><div class="fc-line1">COMPUTER ARCHITECTURE</div><div class="fc-line2">WEEK-${flipCardDisplayWeek(weekNum)}</div></div>
               <div class="flip-card-back"><span class="fc-lock">🔒</span><div class="fc-locked-label">LOCKED</div></div>
             </div>
           </div>`);
         continue;
       }
       const testId = 'WK-' + weekNum + '-TEST';
-      const buttonsHtml = labs.map(lab => `<button type="button" class="fc-load-btn" data-id="${escapeHtml(lab.id)}">${escapeHtml(lab.id)}</button>`).join('')
-        + `<button type="button" class="fc-load-btn fc-test-btn" data-test="true">${escapeHtml(testId)}</button>`;
+      const buttonsHtml = labs.map(lab => `<button type="button" class="fc-load-btn" data-id="${escapeHtml(lab.id)}">${escapeHtml(flipCardDisplayId(lab.id))}</button>`).join('')
+        + `<button type="button" class="fc-load-btn fc-test-btn" data-test="true">${escapeHtml(flipCardDisplayId(testId))}</button>`;
       cardsHtml.push(`
         <div class="flip-card" data-week="${weekNum}">
           <div class="flip-card-inner">
-            <div class="flip-card-front"><div class="fc-line1">COMPUTER ARCHITECTURE</div><div class="fc-line2">WEEK-${weekNum}</div></div>
+            <div class="flip-card-front"><div class="fc-line1">COMPUTER ARCHITECTURE</div><div class="fc-line2">WEEK-${flipCardDisplayWeek(weekNum)}</div></div>
             <div class="flip-card-back">
               <div class="fc-lab-buttons">${buttonsHtml}</div>
             </div>
