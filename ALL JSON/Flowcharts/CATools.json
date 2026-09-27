@@ -1,0 +1,761 @@
+{
+  "title": "Computer System 3D Icon Collection",
+  "description": "Computer system devices and components classified as internal or external.",
+  "icons": [
+    {
+      "icon": "🖥️",
+      "icon_name": "Desktop Computer",
+      "type": "external"
+    },
+    {
+      "icon": "💻",
+      "icon_name": "Laptop",
+      "type": "external"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "All-in-One PC",
+      "type": "external"
+    },
+    {
+      "icon": "📱",
+      "icon_name": "Tablet",
+      "type": "external"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "Mini PC",
+      "type": "external"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "Monitor",
+      "type": "external"
+    },
+    {
+      "icon": "⌨️",
+      "icon_name": "Keyboard",
+      "type": "external"
+    },
+    {
+      "icon": "🖱️",
+      "icon_name": "Mouse",
+      "type": "external"
+    },
+    {
+      "icon": "🖲️",
+      "icon_name": "Touchpad",
+      "type": "external"
+    },
+    {
+      "icon": "🖲️",
+      "icon_name": "Trackball",
+      "type": "external"
+    },
+    {
+      "icon": "🖨️",
+      "icon_name": "Printer",
+      "type": "external"
+    },
+    {
+      "icon": "📠",
+      "icon_name": "Scanner",
+      "type": "external"
+    },
+    {
+      "icon": "📽️",
+      "icon_name": "Projector",
+      "type": "external"
+    },
+    {
+      "icon": "📷",
+      "icon_name": "Webcam",
+      "type": "external"
+    },
+    {
+      "icon": "🎮",
+      "icon_name": "Game Controller",
+      "type": "external"
+    },
+    {
+      "icon": "🎙️",
+      "icon_name": "Microphone",
+      "type": "external"
+    },
+    {
+      "icon": "🕹️",
+      "icon_name": "Joystick",
+      "type": "external"
+    },
+    {
+      "icon": "✍️",
+      "icon_name": "Graphics Tablet",
+      "type": "external"
+    },
+    {
+      "icon": "🖊️",
+      "icon_name": "Digital Stylus",
+      "type": "external"
+    },
+    {
+      "icon": "📱",
+      "icon_name": "Touchscreen",
+      "type": "external"
+    },
+    {
+      "icon": "🔦",
+      "icon_name": "Barcode Scanner",
+      "type": "external"
+    },
+    {
+      "icon": "🔢",
+      "icon_name": "Numeric Keypad",
+      "type": "external"
+    },
+    {
+      "icon": "🔊",
+      "icon_name": "Speakers",
+      "type": "external"
+    },
+    {
+      "icon": "🎧",
+      "icon_name": "Headphones",
+      "type": "external"
+    },
+    {
+      "icon": "🎧",
+      "icon_name": "Headset",
+      "type": "external"
+    },
+    {
+      "icon": "📺",
+      "icon_name": "TV / Display",
+      "type": "external"
+    },
+    {
+      "icon": "🖨️",
+      "icon_name": "3D Printer",
+      "type": "external"
+    },
+    {
+      "icon": "🥽",
+      "icon_name": "VR Headset",
+      "type": "external"
+    },
+    {
+      "icon": "🥽",
+      "icon_name": "Smart Glasses",
+      "type": "external"
+    },
+    {
+      "icon": "⌨️",
+      "icon_name": "Input Unit",
+      "type": "internal"
+    },
+    {
+      "icon": "🧠",
+      "icon_name": "CPU / Processor",
+      "type": "internal"
+    },
+    {
+      "icon": "🎛️",
+      "icon_name": "Control Unit (CU)",
+      "type": "internal"
+    },
+    {
+      "icon": "➗",
+      "icon_name": "Arithmetic Logic Unit (ALU)",
+      "type": "internal"
+    },
+    {
+      "icon": "📋",
+      "icon_name": "CPU Registers",
+      "type": "internal"
+    },
+    {
+      "icon": "🧩",
+      "icon_name": "Main Memory / RAM",
+      "type": "internal"
+    },
+    {
+      "icon": "⚡",
+      "icon_name": "Cache Memory",
+      "type": "internal"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "Output Unit",
+      "type": "internal"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "Storage Unit",
+      "type": "internal"
+    },
+    {
+      "icon": "🟩",
+      "icon_name": "Motherboard",
+      "type": "internal"
+    },
+    {
+      "icon": "🧩",
+      "icon_name": "RAM Module",
+      "type": "internal"
+    },
+    {
+      "icon": "🎮",
+      "icon_name": "GPU / Graphics Card",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "Power Supply Unit (PSU)",
+      "type": "internal"
+    },
+    {
+      "icon": "💽",
+      "icon_name": "Hard Disk Drive (HDD)",
+      "type": "internal"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "Solid State Drive (SSD)",
+      "type": "internal"
+    },
+    {
+      "icon": "⚡",
+      "icon_name": "M.2 NVMe SSD",
+      "type": "internal"
+    },
+    {
+      "icon": "🌀",
+      "icon_name": "CPU Cooling Fan",
+      "type": "internal"
+    },
+    {
+      "icon": "❄️",
+      "icon_name": "CPU Heatsink",
+      "type": "internal"
+    },
+    {
+      "icon": "💧",
+      "icon_name": "Liquid CPU Cooler",
+      "type": "internal"
+    },
+    {
+      "icon": "🌀",
+      "icon_name": "Case Fan",
+      "type": "internal"
+    },
+    {
+      "icon": "🔋",
+      "icon_name": "CMOS Battery",
+      "type": "internal"
+    },
+    {
+      "icon": "🔊",
+      "icon_name": "Sound Card",
+      "type": "internal"
+    },
+    {
+      "icon": "🌐",
+      "icon_name": "Network Card (NIC)",
+      "type": "internal"
+    },
+    {
+      "icon": "📡",
+      "icon_name": "Wi-Fi Card",
+      "type": "internal"
+    },
+    {
+      "icon": "💿",
+      "icon_name": "Optical Drive",
+      "type": "internal"
+    },
+    {
+      "icon": "💽",
+      "icon_name": "HDD",
+      "type": "internal"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "SATA SSD",
+      "type": "internal"
+    },
+    {
+      "icon": "⚡",
+      "icon_name": "NVMe SSD",
+      "type": "internal"
+    },
+    {
+      "icon": "📦",
+      "icon_name": "M.2 SSD",
+      "type": "internal"
+    },
+    {
+      "icon": "💽",
+      "icon_name": "External HDD",
+      "type": "external"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "External SSD",
+      "type": "external"
+    },
+    {
+      "icon": "🔑",
+      "icon_name": "USB Flash Drive",
+      "type": "external"
+    },
+    {
+      "icon": "💳",
+      "icon_name": "SD Card",
+      "type": "external"
+    },
+    {
+      "icon": "💳",
+      "icon_name": "MicroSD Card",
+      "type": "external"
+    },
+    {
+      "icon": "💿",
+      "icon_name": "CD",
+      "type": "external"
+    },
+    {
+      "icon": "💿",
+      "icon_name": "DVD",
+      "type": "external"
+    },
+    {
+      "icon": "💿",
+      "icon_name": "Blu-ray Disc",
+      "type": "external"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "Floppy Disk",
+      "type": "external"
+    },
+    {
+      "icon": "🎮",
+      "icon_name": "Graphics Card",
+      "type": "internal"
+    },
+    {
+      "icon": "🧩",
+      "icon_name": "PCIe Card",
+      "type": "internal"
+    },
+    {
+      "icon": "🌐",
+      "icon_name": "Ethernet Card",
+      "type": "internal"
+    },
+    {
+      "icon": "📹",
+      "icon_name": "Video Capture Card",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "USB Expansion Card",
+      "type": "internal"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "Storage Expansion Card",
+      "type": "internal"
+    },
+    {
+      "icon": "📡",
+      "icon_name": "Wi-Fi Router",
+      "type": "external"
+    },
+    {
+      "icon": "📡",
+      "icon_name": "Wireless Access Point",
+      "type": "external"
+    },
+    {
+      "icon": "🌐",
+      "icon_name": "Ethernet Switch",
+      "type": "external"
+    },
+    {
+      "icon": "🔀",
+      "icon_name": "Network Hub",
+      "type": "external"
+    },
+    {
+      "icon": "📶",
+      "icon_name": "Modem",
+      "type": "external"
+    },
+    {
+      "icon": "🛡️",
+      "icon_name": "Firewall Appliance",
+      "type": "external"
+    },
+    {
+      "icon": "🗄️",
+      "icon_name": "Network Attached Storage (NAS)",
+      "type": "external"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "Server",
+      "type": "external"
+    },
+    {
+      "icon": "🗄️",
+      "icon_name": "Server Rack",
+      "type": "external"
+    },
+    {
+      "icon": "🌐",
+      "icon_name": "Ethernet Adapter",
+      "type": "external"
+    },
+    {
+      "icon": "📶",
+      "icon_name": "Wi-Fi Adapter",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "USB-A Port",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "USB-C Port",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "Micro-USB Port",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "HDMI Port",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "DisplayPort",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "VGA Port",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "DVI Port",
+      "type": "external"
+    },
+    {
+      "icon": "🎧",
+      "icon_name": "3.5mm Audio Jack",
+      "type": "external"
+    },
+    {
+      "icon": "🌐",
+      "icon_name": "Ethernet / RJ-45 Port",
+      "type": "external"
+    },
+    {
+      "icon": "💳",
+      "icon_name": "SD Card Slot",
+      "type": "external"
+    },
+    {
+      "icon": "⚡",
+      "icon_name": "Power Connector",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "SATA Connector",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "PCIe Slot",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "USB Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "USB-C Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "HDMI Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "DisplayPort Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "VGA Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🌐",
+      "icon_name": "Ethernet Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🎧",
+      "icon_name": "Audio Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "SATA Cable",
+      "type": "internal"
+    },
+    {
+      "icon": "⚡",
+      "icon_name": "Power Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "Thunderbolt Cable",
+      "type": "external"
+    },
+    {
+      "icon": "🔊",
+      "icon_name": "Desktop Speakers",
+      "type": "external"
+    },
+    {
+      "icon": "🎧",
+      "icon_name": "Gaming Headset",
+      "type": "external"
+    },
+    {
+      "icon": "🎙️",
+      "icon_name": "USB Microphone",
+      "type": "external"
+    },
+    {
+      "icon": "🎚️",
+      "icon_name": "Audio Mixer",
+      "type": "external"
+    },
+    {
+      "icon": "📷",
+      "icon_name": "Digital Camera",
+      "type": "external"
+    },
+    {
+      "icon": "📠",
+      "icon_name": "Document Scanner",
+      "type": "external"
+    },
+    {
+      "icon": "🎥",
+      "icon_name": "Video Camera",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "Power Supply Unit",
+      "type": "internal"
+    },
+    {
+      "icon": "🔋",
+      "icon_name": "UPS",
+      "type": "external"
+    },
+    {
+      "icon": "⚡",
+      "icon_name": "Surge Protector",
+      "type": "external"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "Power Strip",
+      "type": "external"
+    },
+    {
+      "icon": "🔋",
+      "icon_name": "Laptop Battery",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "AC Adapter",
+      "type": "external"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "PC Case",
+      "type": "external"
+    },
+    {
+      "icon": "📦",
+      "icon_name": "Drive Bay",
+      "type": "internal"
+    },
+    {
+      "icon": "🧩",
+      "icon_name": "Expansion Slot",
+      "type": "internal"
+    },
+    {
+      "icon": "📦",
+      "icon_name": "M.2 Slot",
+      "type": "internal"
+    },
+    {
+      "icon": "🧹",
+      "icon_name": "Air Filter",
+      "type": "internal"
+    },
+    {
+      "icon": "🧹",
+      "icon_name": "Dust Filter",
+      "type": "internal"
+    },
+    {
+      "icon": "🔩",
+      "icon_name": "PC Case Screws",
+      "type": "internal"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "Laptop Display",
+      "type": "internal"
+    },
+    {
+      "icon": "⌨️",
+      "icon_name": "Laptop Keyboard",
+      "type": "internal"
+    },
+    {
+      "icon": "🖲️",
+      "icon_name": "Laptop Touchpad",
+      "type": "internal"
+    },
+    {
+      "icon": "📷",
+      "icon_name": "Built-in Webcam",
+      "type": "internal"
+    },
+    {
+      "icon": "🎙️",
+      "icon_name": "Built-in Microphone",
+      "type": "internal"
+    },
+    {
+      "icon": "🔊",
+      "icon_name": "Laptop Speakers",
+      "type": "internal"
+    },
+    {
+      "icon": "💾",
+      "icon_name": "Laptop SSD",
+      "type": "internal"
+    },
+    {
+      "icon": "🧩",
+      "icon_name": "Laptop RAM",
+      "type": "internal"
+    },
+    {
+      "icon": "📡",
+      "icon_name": "Laptop Wi-Fi Adapter",
+      "type": "internal"
+    },
+    {
+      "icon": "🔌",
+      "icon_name": "Laptop Charger",
+      "type": "external"
+    },
+    {
+      "icon": "⌚",
+      "icon_name": "Smart Watch",
+      "type": "external"
+    },
+    {
+      "icon": "📱",
+      "icon_name": "Smartphone",
+      "type": "external"
+    },
+    {
+      "icon": "🖊️",
+      "icon_name": "Smart Pen",
+      "type": "external"
+    },
+    {
+      "icon": "💳",
+      "icon_name": "Card Reader",
+      "type": "external"
+    },
+    {
+      "icon": "💿",
+      "icon_name": "External DVD Drive",
+      "type": "external"
+    },
+    {
+      "icon": "🖥️",
+      "icon_name": "Drawing Tablet",
+      "type": "external"
+    },
+    {
+      "icon": "🪛",
+      "icon_name": "Screwdriver",
+      "type": "external"
+    },
+    {
+      "icon": "🧴",
+      "icon_name": "Thermal Paste",
+      "type": "internal"
+    },
+    {
+      "icon": "🧹",
+      "icon_name": "Cleaning Brush",
+      "type": "external"
+    },
+    {
+      "icon": "💨",
+      "icon_name": "Air Duster",
+      "type": "external"
+    },
+    {
+      "icon": "🧰",
+      "icon_name": "Toolbox",
+      "type": "external"
+    },
+    {
+      "icon": "🔗",
+      "icon_name": "Anti-static Wrist Strap",
+      "type": "external"
+    },
+    {
+      "icon": "🔧",
+      "icon_name": "Pliers",
+      "type": "external"
+    },
+    {
+      "icon": "🔍",
+      "icon_name": "Magnifying Glass",
+      "type": "external"
+    }
+  ]
+}
