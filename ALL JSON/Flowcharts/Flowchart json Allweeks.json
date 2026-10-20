@@ -55,7 +55,7 @@
     ],
     "finalCheck": "Power Supply → CPU → RAM → SSD → GPU → Monitor → Keyboard → Mouse"
   },
-  "WK-1-LAB-2": {
+  "WK-w1-LAB-2": {
     "toolbox": [
       "Keyboard",
       "Instruction Fetch Unit",
@@ -207,7 +207,7 @@
     ],
     "finalCheck": "Power Supply → Operating System → RAM → CPU → CPU Cache → Memory Controller → RAM → Memory Bus → CPU Register → CPU"
   },
-  "WK-2-LAB-2": {
+  "WK-w2-LAB-2": {
     "toolbox": [
       "Power Supply",
       "Operating System",
@@ -380,7 +380,7 @@
     ],
     "finalCheck": "Power Supply → Operating System → Secondary Storage → RAM → Memory Controller → Memory Bus → CPU Cache → CPU"
   },
-  "WK-3-LAB-2": {
+  "WK-w3-LAB-2": {
     "toolbox": [
       "Power Supply",
       "Operating System",
